@@ -9,4 +9,4 @@ y
 y
 EOF
 
-echo "Proses Uninstall Panel Selesai."
+echo "Proses Uninstall Panell Selesai."
