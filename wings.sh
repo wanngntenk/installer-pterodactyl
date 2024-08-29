@@ -10,4 +10,4 @@ eval $token
 # Menjalankan perintah systemctl start wings
 sudo systemctl start wings
 
-echo "Layanan wings telah dimulai."
+echo "Layanan wings telah sukses dimulai."
