@@ -13,19 +13,18 @@ display_welcome() {
   echo -e "${BLUE}[+] =============================================== [+]${NC}"
   echo -e "${BLUE}[+]                                                 [+]${NC}"
   echo -e "${BLUE}[+]                AUTO INSTALLER THEMA             [+]${NC}"
-  echo -e "${BLUE}[+]                  © VALLZ OFFC                [+]${NC}"
+  echo -e "${BLUE}[+]                  © BY WANNFYY                [+]${NC}"
   echo -e "${BLUE}[+]                                                 [+]${NC}"
   echo -e "${RED}[+] =============================================== [+]${NC}"
   echo -e ""
-  echo -e "script ini di buat untuk mempermudah penginstalasian thema pterodactyle,"
+  echo -e "script ini di buat untuk mempermudah penginstalasian pterodactyle,"
   echo -e "dilarang keras untuk memperjual belikan."
   echo -e ""
-  echo -e "𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 :"
-  echo -e "0856-4122-5753"
-  echo -e "𝗬𝗢𝗨𝗧𝗨𝗕𝗘 :"
-  echo -e "@vallz134"
-  echo -e "𝗖𝗥𝗘𝗗𝗜𝗧𝗦 :"
-  echo -e "@VallzOffc"
+  echo -e "JANGAN LUPA SUBSCRIBE @WANNOFFC"
+  echo -e ""
+  echo -e "TQ TO :"
+  echo -e "ALL CREATOR WHATSAPP"
+  echo -e "WANNOFFICIAL ( MY SELF )"
   sleep 4
   clear
 }
@@ -64,10 +63,10 @@ check_token() {
   echo -e "${YELLOW}MASUKAN AKSES TOKEN :${NC}"
   read -r USER_TOKEN
 
-  if [ "$USER_TOKEN" = "VallzOffc" ]; then
+  if [ "$USER_TOKEN" = "iniwannbroku" ]; then
     echo -e "${GREEN}AKSES BERHASIL${NC}}"
   else
-    echo -e "${GREEN}Buy dulu Weh Ke Vallzoffc No 6285641225753${NC}"
+    echo -e "${GREEN} Silahkan Tanyakan Kepada WannOFFICIAL Jika Token Salah.${NC}"
     exit 1
   fi
   clear
@@ -401,7 +400,7 @@ hackback@gmail.com
 $user
 $user
 $user
-$passwd
+$psswd
 EOF
   echo -e "                                                       "
   echo -e "${GREEN}[+] =============================================== [+]${NC}"
