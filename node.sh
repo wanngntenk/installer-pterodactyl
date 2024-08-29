@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Minta input dari pengguna
+# Minta inputan dari pengguna
 read -p "Masukkan nama lokasi: " location_name
 read -p "Masukkan deskripsi lokasi: " location_description
 read -p "Masukkan domain: " domain
