@@ -1,3 +1,15 @@
+# [+] =============================================== [+]
+# [+]                                                 [+]
+# [+] - INSTALLER PTERODACTYL                         [+]
+# [+]                                                 [+]
+# [+]  TQTO :                                         [+]
+# [+] • WannOffc ( MySelf)                            [+]
+# [+] • Creator Bot WhatsApp & Telegram               [+]
+# [+] • Para Pengguna Bot Tele & Wa                   [+]
+# [+]                                                 [+]
+# [+] © CreateByWannFyy                               [+]
+# [+] =============================================== [+]
+
 #!/bin/bash
 
 # Minta inputan dari pengguna
