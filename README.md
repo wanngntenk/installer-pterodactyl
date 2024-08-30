@@ -25,4 +25,4 @@ _\* di atas adalah os yang saya test, selebihnya bisa di test sendiri._
 ## Contributors ✨
 
 Copyright (C) 2023 - 2024
-- By [ WANNFYY ](https://github.com/wndrzzka)
+- BY [ WANNFYY ](https://github.com/wndrzzka)
